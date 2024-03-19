@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chengyimio.github.io/genshin/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "genshinimpact",
+    "description": "",
+    "home_page_url": "https://chengyimio.github.io/genshin",
+    "feed_url": "https://chengyimio.github.io/genshin/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "chengyi"
+    },
+    "items": [
+        {
+            "id": "https://chengyimio.github.io/genshin/yuan-shen-qi-dong.html",
+            "url": "https://chengyimio.github.io/genshin/yuan-shen-qi-dong.html",
+            "title": "原神 啟動",
+            "summary": "我最喜歡玩原神了 西西西西",
+            "content_html": "\n  <p>\n    我最喜歡玩原神了 西西西西\n  </p>",
+            "author": {
+                "name": "chengyi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-19T21:12:50+08:00",
+            "date_modified": "2024-03-19T21:27:07+08:00"
+        }
+    ]
+}
